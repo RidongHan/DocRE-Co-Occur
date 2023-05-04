@@ -1,3 +1,6 @@
+The Pytorch code of the paper "[Document-level Relation Extraction with Relation Correlations](https://arxiv.org/abs/2212.10171)".
+
+
 ## How to run?
 
 ```
