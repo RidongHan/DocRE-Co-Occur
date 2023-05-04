@@ -1,0 +1,1 @@
+{"type::blank": 0, "type::location": 1, "type::organization": 2, "type::person": 3, "type::misc": 4, "type::event": 5, "type::ethnicity": 6, "type::time": 7, "type::role": 8, "type::money": 9, "type::other": 10}
