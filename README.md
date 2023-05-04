@@ -1,6 +1,13 @@
 The Pytorch code of the paper "[Document-level Relation Extraction with Relation Correlations](https://arxiv.org/abs/2212.10171)".
 
 
+## requirements
+
++ pytorch = 1.7.1
++ cuda = 10.2.89
++ cudnn = 7.6.5
++ transformers = 3.4.0
+
 ## How to run?
 
 ```
